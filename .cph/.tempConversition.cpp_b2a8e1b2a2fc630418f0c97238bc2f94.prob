@@ -1,0 +1,1 @@
+{"name":"Local: tempConversition","url":"c:\\programming-hero\\cp\\tempConversition.cpp","tests":[{"id":1661840564648,"input":"2\n100 0\n0 100","output":"Case 1: 100.00\nCase 2: 55.56"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\programming-hero\\cp\\tempConversition.cpp","group":"local","local":true}

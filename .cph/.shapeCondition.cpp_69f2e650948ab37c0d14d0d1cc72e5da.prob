@@ -1,0 +1,1 @@
+{"name":"Local: shapeCondition","url":"c:\\programming-hero\\cp\\shapeCondition.cpp","tests":[{"id":1661794774030,"input":"2\n20 20 20\n1 2 21","output":"Case 1: good\nCase 2: bad"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\programming-hero\\cp\\shapeCondition.cpp","group":"local","local":true}

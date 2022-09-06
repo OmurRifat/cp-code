@@ -1,0 +1,1 @@
+{"name":"Local: highLow","url":"c:\\programming-hero\\cp\\highLow.cpp","tests":[{"id":1661843511449,"input":"3\n8\n1 4 2 2 3 5 3 4\n1\n9\n5\n1 2 3 4 5","output":"Case 1: 4 2\nCase 2: 0 0\nCase 3: 4 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\programming-hero\\cp\\highLow.cpp","group":"local","local":true}

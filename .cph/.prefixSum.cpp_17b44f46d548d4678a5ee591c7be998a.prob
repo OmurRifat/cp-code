@@ -1,0 +1,1 @@
+{"name":"Local: prefixSum","url":"c:\\programming-hero\\cp\\prefixSum.cpp","tests":[{"id":1661856752914,"input":"3\n1 4 1\n3\n1 1\n1 2\n0 2","output":"4\n5\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\programming-hero\\cp\\prefixSum.cpp","group":"local","local":true}

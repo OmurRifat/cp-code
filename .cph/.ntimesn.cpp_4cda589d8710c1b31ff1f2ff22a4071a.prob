@@ -1,0 +1,1 @@
+{"name":"Local: ntimesn","url":"c:\\programming-hero\\cp\\ntimesn.cpp","tests":[{"id":1661792369554,"input":"2\n1\n8\n0","output":"5\n1\n204"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\programming-hero\\cp\\ntimesn.cpp","group":"local","local":true}
